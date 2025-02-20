@@ -1,4 +1,4 @@
-This project demonstrates the use of Ray Marching shader technique in VisionOS project with Metal rendering pipeline.
+This project demonstrates the use of Ray Marching shader technique in VisionOS with Metal rendering pipeline.
 
 The renderer class actor is from Xcode's VisionOS template for Metal renderer. There is no scene geometry, everything is done inside fragment shader.
 
